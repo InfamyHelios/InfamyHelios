@@ -1,5 +1,5 @@
 # Hello there!
-I am a current high school sophomore 
+I am a current high school sophomore, currently owning a Minecraft server and reporting issues to plugin devs that have issues on GitHub.
 
 <!--
 **InfamyHelios/InfamyHelios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
