@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hello there!
+I am a current high school sophomore 
 
 <!--
 **InfamyHelios/InfamyHelios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
