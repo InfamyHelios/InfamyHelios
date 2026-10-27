@@ -1,6 +1,6 @@
 # Hello there! 🤝
-I am a current high school sophomore, currently owning a Minecraft server and reporting issues to plugin devs that have issues on GitHub.
-I also comically suck ass at writing code.
+I am a high school sophomore currently owning a Minecraft server and reporting issues to plugin devs that have issues on GitHub.
+I also comically suck ass at writing code. Which is not ideal if you have a GitHub profile.
 
 <!--
 **InfamyHelios/InfamyHelios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
