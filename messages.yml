@@ -80,50 +80,50 @@
 # Example locales: [en, fr, de] (system locale is used by default)
 locale: system
 time_format: yyyy-MM-dd
-default_ban_reason: have been banned from &#F1EE70&lSERVERNAME
+default_ban_reason: have been banned from &#F1EE70&lRosteSMP
 default_mute_reason: Spamming
 default_unban_reason: No reason specified.
 default_unmute_reason: No reason specified.
 default_unwarn_reason: No reason specified.
 banned_message_base: |
-  &#F1EE70You have been banned from &#EF543B&lSERVERNAME
+  &#F1EE70You have been banned from &#EF543B&lRosteSMP
   &7
   &#ADF3FD&l👤 &fName: &#ADF3FD$playerName
   &#DBE956⌚ &fDuration: &#DBE956$duration
   &#DA5FEE✉ &fReason: &#DA5FEE$reason
   &7
   &#E0E319If you believe this ban is a mistake join our community
-  &#E0E319discord server &#8B9FF5discord.website.com
+  &#E0E319discord server &#8B9FF5https://discord.gg/snBC4MXJwT
 banned_message: $base
 banned_message_permanent: $base
 banned_message_appeal_message: ''
 banned_message_geoip_blacklist: |
-  &#F1EE70You have been banned from &#EF543B&lSERVERNAME
+  &#F1EE70You have been banned from &#EF543B&lRosteSMP
   &7
   &#ADF3FD&l👤 &fName &8&l» &#ADF3FD$playerName
   &#DBE956⌚ &fDuration &8&l» &#DBE956$duration
   &#DA5FEE✉ &fReason &8&l» &#DA5FEE$reason
   &7
   &#E0E319If you believe this ban is a mistake join our community
-  &#E0E319discord server &#8B9FF5discord.website.com
+  &#E0E319discord server &#8B9FF5https://discord.gg/snBC4MXJwT
 proxy_switch_banned: |
-  &#F1EE70You have been banned from &#EF543B&lSERVERNAME
+  &#F1EE70You have been banned from &#EF543B&lRosteSMP
   &7
   &#ADF3FD&l👤 &fName &8&l» &#ADF3FD$playerName
   &#DBE956⌚ &fDuration &8&l» &#DBE956$duration
   &#DA5FEE✉ &fReason &8&l» &#DA5FEE$reason
   &7
   &#E0E319If you believe this ban is a mistake join our community
-  &#E0E319discord server &#8B9FF5discord.website.com
+  &#E0E319discord server &#8B9FF5https://discord.gg/snBC4MXJwT
 proxy_switch_tempbanned: |
-  &#F1EE70You have been banned from &#EF543B&lSERVERNAME
+  &#F1EE70You have been banned from &#EF543B&lRosteSMP
   &7
   &#ADF3FD&l👤 &fName &8&l» &#ADF3FD$playerName
   &#DBE956⌚ &fDuration &8&l» &#DBE956$duration
   &#DA5FEE✉ &fReason &8&l» &#DA5FEE$reason
   &7
   &#E0E319If you believe this ban is a mistake join our community
-  &#E0E319discord server &#8B9FF5discord.website.com
+  &#E0E319discord server &#8B9FF5https://discord.gg/snBC4MXJwT
 muted: |
   &#F1EE70You have been muted!
   &7
@@ -132,7 +132,7 @@ muted: |
   &#DA5FEE✉ &fReason &8&l» &#DA5FEE$reason
   &7
   &#E0E319If you believe this mute is a mistake join our community
-  &#E0E319discord server &#8B9FF5discord.website.com
+  &#E0E319discord server &#8B9FF5https://discord.gg/snBC4MXJwT
 muted_permanent: |
   &#F1EE70You have been muted!
   &7
@@ -141,7 +141,7 @@ muted_permanent: |
   &#DA5FEE✉ &fReason &8&l» &#DA5FEE$reason
   &7
   &#E0E319If you believe this mute is a mistake join our community
-  &#E0E319discord server &#8B9FF5discord.website.com
+  &#E0E319discord server &#8B9FF5https://discord.gg/snBC4MXJwT
 warned_join: |
   &#F1EE70You have been warned!
   &7
@@ -150,7 +150,7 @@ warned_join: |
   &#DA5FEE✉ &fReason &8&l» &#DA5FEE$reason
   &7
   &#E0E319If you believe this mute is a mistake join our community
-  &#E0E319discord server &#8B9FF5discord.website.com
+  &#E0E319discord server &#8B9FF5https://discord.gg/snBC4MXJwT
 warned_join_entry: |
   &#F1EE70You have been warned!
   &7
@@ -159,7 +159,7 @@ warned_join_entry: |
   &#DA5FEE✉ &fReason: &#DA5FEE$reason
   &7
   &#E0E319If you believe this mute is a mistake join our community
-  &#E0E319discord server &#8B9FF5discord.website.com
+  &#E0E319discord server &#8B9FF5https://discord.gg/snBC4MXJwT
 notify:
   banned_player_join: '&#E0E319[Staff] &8&l» &#E0E319$player&f tried to join, but
     is banned &#E0E319[$duration]'
@@ -246,7 +246,7 @@ command:
       &#DA5FEE✉ &fReason: &#DA5FEE$reason
       &7
       &#E0E319If you believe this kick is a mistake join our community
-      &#E0E319discord server &#8B9FF5discord.website.com
+      &#E0E319discord server &#8B9FF5https://discord.gg/snBC4MXJwT
       &7
     message_permanent: |
       &7
@@ -257,7 +257,7 @@ command:
       &#DA5FEE✉ &fReason: &#DA5FEE$reason
       &7
       &#E0E319If you believe this kick is a mistake join our community
-      &#E0E319discord server &#8B9FF5discord.website.com
+      &#E0E319discord server &#8B9FF5https://discord.gg/snBC4MXJwT
       &7
     unmute_fail: '&#E0E319[Staff] &8&l» &#F1EE70Target is not muted!'
     no_override: '&#E0E319[Staff] &8&l» &#F1EE70Player is already muted!'
@@ -287,7 +287,7 @@ command:
       &#DA5FEE✉ &fReason &8&l» &#DA5FEE$reason
       &7
       &#E0E319If you believe this warning is a mistake join our community
-      &#E0E319discord server &#8B9FF5discord.website.com
+      &#E0E319discord server &#8B9FF5https://discord.gg/snBC4MXJwT
       &7
     list_entry: '&f \- Warned by &#E0E319$executor&f &8&l» ''&#E0E319$reason&f'''
     unwarn_response: '&#E0E319[Staff] &8&l» &fLast warning removed for &#E0E319$player.'
@@ -310,7 +310,7 @@ command:
       &#DA5FEE✉ &fReason &8&l» &#DA5FEE$reason
       &7
       &#E0E319If you believe this kick is a mistake join our community
-      &#E0E319discord server &#8B9FF5discord.website.com
+      &#E0E319discord server &#8B9FF5https://discord.gg/snBC4MXJwT
       &7
     message_no_reason: |
       &7
@@ -321,7 +321,7 @@ command:
       &#DA5FEE✉ &fReason &8&l» &#DA5FEE$reason
       &7
       &#E0E319If you believe this kick is a mistake join our community
-      &#E0E319discord server &#8B9FF5discord.website.com
+      &#E0E319discord server &#8B9FF5https://discord.gg/snBC4MXJwT
       &7
     response: '&#E0E319[Staff] &8&l» &#E0E319$playerDisplayName has been kicked.'
     broadcast: '&#E0E319[Staff] &8&l» &#E0E319$playerDisplayName&f was kicked by &#E0E319$executor&f
@@ -446,7 +446,7 @@ command:
       &#DA5FEE✉ &fReason &8&l» &#DA5FEE$reason
       &7
       &#E0E319For more information on this lockdown join our community
-      &#E0E319discord server &#8B9FF5discord.website.com
+      &#E0E319discord server &#8B9FF5https://discord.gg/snBC4MXJwT
       &7
     kick_message_global: |-
       &7
@@ -456,7 +456,7 @@ command:
       &#DA5FEE✉ &fReason &8&l» &#DA5FEE$reason
       &7
       &#E0E319For more information on this lockdown join our community
-      &#E0E319discord server &#8B9FF5discord.website.com
+      &#E0E319discord server &#8B9FF5https://discord.gg/snBC4MXJwT
       &7
     error_not_active: '&#E0E319[Staff] &8&l» &#F1EE70Lockdown is not active!'
   litebans:
